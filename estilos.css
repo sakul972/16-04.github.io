@@ -1,0 +1,24 @@
+.centrado {
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+h1{
+    text-align: center;
+}
+.celeste{
+    color: rgb(6, 149, 221);
+}
+img{
+    height: 500px;
+    width: 100%;
+
+}
+body  {
+font-family: "Winky Rough", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: weight ;
+  font-style: normal; }
+  a{
+    text-decoration: none;
+  }
